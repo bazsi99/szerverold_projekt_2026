@@ -1,0 +1,7 @@
+C:\Users\balaz\source\repos\ReceptApi\obj\Debug\net10.0\ReceptApi.csproj.AssemblyReference.cache
+C:\Users\balaz\source\repos\ReceptApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\balaz\source\repos\ReceptApi\obj\Debug\net10.0\ReceptApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaz\source\repos\ReceptApi\obj\Debug\net10.0\ReceptApi.AssemblyInfoInputs.cache
+C:\Users\balaz\source\repos\ReceptApi\obj\Debug\net10.0\ReceptApi.AssemblyInfo.cs
+C:\Users\balaz\source\repos\ReceptApi\obj\Debug\net10.0\ReceptApi.csproj.CoreCompileInputs.cache
+C:\Users\balaz\source\repos\ReceptApi\obj\Debug\net10.0\ReceptApi.MvcApplicationPartsAssemblyInfo.cache
