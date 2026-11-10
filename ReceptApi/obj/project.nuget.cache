@@ -1,21 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "0Y9SqxalROU=",
+  "dgSpecHash": "CLl69cdQNIY=",
   "success": true,
   "projectFilePath": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\ReceptApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\balaz\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.14\\microsoft.data.sqlite.core.10.0.14.nupkg.sha512",
     "C:\\Users\\balaz\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.14\\microsoft.entityframeworkcore.10.0.14.nupkg.sha512",
     "C:\\Users\\balaz\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.14\\microsoft.entityframeworkcore.abstractions.10.0.14.nupkg.sha512",
     "C:\\Users\\balaz\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.14\\microsoft.entityframeworkcore.analyzers.10.0.14.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.14\\microsoft.entityframeworkcore.relational.10.0.14.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\10.0.14\\microsoft.entityframeworkcore.sqlite.10.0.14.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.14\\microsoft.entityframeworkcore.sqlite.core.10.0.14.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.14\\microsoft.extensions.dependencymodel.10.0.14.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.13\\sqlitepclraw.bundle_e_sqlite3.2.1.13.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\sqlitepclraw.core\\2.1.13\\sqlitepclraw.core.2.1.13.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.13\\sqlitepclraw.lib.e_sqlite3.2.1.13.nupkg.sha512",
-    "C:\\Users\\balaz\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.13\\sqlitepclraw.provider.e_sqlite3.2.1.13.nupkg.sha512"
+    "C:\\Users\\balaz\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\balaz\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\balaz\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MySqlConnector' 2.4.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\ReceptApi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\ReceptApi.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

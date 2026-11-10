@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\data\\receptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|solutionrelative:data\\receptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\receptapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:receptapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\desszertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|solutionrelative:controllers\\desszertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\data\\receptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:data\\receptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\desszertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:controllers\\desszertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\levescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|solutionrelative:controllers\\levescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\levescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:controllers\\levescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\foetelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|solutionrelative:controllers\\foetelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\foetelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:controllers\\foetelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\receptapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53E713FD-2891-4758-A2B2-6E5414F8634E}|ReceptApi.csproj|solutionrelative:receptapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T21:28:58.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DesszertController.cs",
               "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\DesszertController.cs",
               "RelativeDocumentMoniker": "Controllers\\DesszertController.cs",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Controllers\\DesszertController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T21:10:43.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T21:10:43.195Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Controllers\\LevesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T20:56:36.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T20:56:36.984Z"
             },
             {
               "$type": "Document",
@@ -89,12 +87,11 @@
               "RelativeToolTip": "Controllers\\FoetelController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T20:22:58.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T20:22:58.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReceptContext.cs",
               "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Data\\ReceptContext.cs",
               "RelativeDocumentMoniker": "Data\\ReceptContext.cs",
@@ -102,25 +99,24 @@
               "RelativeToolTip": "Data\\ReceptContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T20:15:51.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T20:15:51.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReceptApi",
+              "DocumentIndex": 1,
+              "Title": "ReceptApi.csproj",
               "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\ReceptApi.csproj",
               "RelativeDocumentMoniker": "ReceptApi.csproj",
-              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\ReceptApi.csproj",
-              "RelativeToolTip": "ReceptApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\ReceptApi.csproj*",
+              "RelativeToolTip": "ReceptApi.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-11-09T20:15:15.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Models\\Models.cs",
               "RelativeDocumentMoniker": "Models\\Models.cs",
@@ -128,8 +124,7 @@
               "RelativeToolTip": "Models\\Models.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T20:03:34.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T20:03:34.67Z"
             }
           ]
         }

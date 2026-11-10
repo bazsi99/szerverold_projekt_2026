@@ -1,27 +1,14 @@
-namespace ReceptApi
-{
-    public class Program
-    {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
+using Microsoft.EntityFrameworkCore;
+using ReceptApi.Data;
 
-            // Add services to the container.
+var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddControllers();
+builder.Services.AddControllers();
 
-            var app = builder.Build();
+var kapcsolat = "Server=localhost;Port=3306;Database=receptes_app;User=root;Password=;";
+builder.Services.AddDbContext<ReceptContext>(o => o.UseMySql(kapcsolat, ServerVersion.AutoDetect(kapcsolat)));
 
-            // Configure the HTTP request pipeline.
+var app = builder.Build();
 
-            app.UseHttpsRedirection();
-
-            app.UseAuthorization();
-
-
-            app.MapControllers();
-
-            app.Run();
-        }
-    }
-}
+app.MapControllers();
+app.Run("http://localhost:5000");
