@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\etelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:etelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\randomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:randomwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\randomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:randomwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\etelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:etelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|c:\\users\\balaz\\source\\repos\\receptwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43B81B9A-574E-64FF-33C1-11496DE0ED68}|ReceptWpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtelWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\EtelWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EtelWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\EtelWindow.xaml.cs",
+              "RelativeToolTip": "EtelWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:26:52.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EtelWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\EtelWindow.xaml",
+              "RelativeDocumentMoniker": "EtelWindow.xaml",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\EtelWindow.xaml",
+              "RelativeToolTip": "EtelWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-10T20:21:24.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\Api.cs",
+              "RelativeDocumentMoniker": "Api.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\Api.cs*",
+              "RelativeToolTip": "Api.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:16:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:16:36.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:15:27.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-10T20:15:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-10T20:14:38.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\RandomWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RandomWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\RandomWindow.xaml.cs",
+              "RelativeToolTip": "RandomWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:37:42.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T20:14:36.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\RandomWindow.xaml",
+              "RelativeDocumentMoniker": "RandomWindow.xaml",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptWpf\\RandomWindow.xaml",
+              "RelativeToolTip": "RandomWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-10T20:37:22.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

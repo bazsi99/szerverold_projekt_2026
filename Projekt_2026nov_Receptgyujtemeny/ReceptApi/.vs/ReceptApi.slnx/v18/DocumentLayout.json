@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\desszertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:controllers\\desszertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\levescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:controllers\\levescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\foetelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:controllers\\foetelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\controllers\\etelalapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:controllers\\etelalapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\data\\receptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:data\\receptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|c:\\users\\balaz\\source\\repos\\receptapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655A7D46-E438-A0CA-CD6F-F804E01B61D9}|ReceptApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EtelAlapController.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\EtelAlapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EtelAlapController.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\EtelAlapController.cs",
+              "RelativeToolTip": "Controllers\\EtelAlapController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T12:36:27.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T21:28:58.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesszertController.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\DesszertController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DesszertController.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\DesszertController.cs",
+              "RelativeToolTip": "Controllers\\DesszertController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T21:10:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevesController.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\LevesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LevesController.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\LevesController.cs",
+              "RelativeToolTip": "Controllers\\LevesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:56:36.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoetelController.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\FoetelController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoetelController.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Controllers\\FoetelController.cs",
+              "RelativeToolTip": "Controllers\\FoetelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:22:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReceptContext.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Data\\ReceptContext.cs",
+              "RelativeDocumentMoniker": "Data\\ReceptContext.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Data\\ReceptContext.cs",
+              "RelativeToolTip": "Data\\ReceptContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:15:51.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Models\\Models.cs",
+              "ToolTip": "C:\\Users\\balaz\\source\\repos\\ReceptApi\\Models\\Models.cs",
+              "RelativeToolTip": "Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:03:34.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
